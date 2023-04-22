@@ -30,12 +30,16 @@ TBD
 N/A
 
 ## Technologies
-Express.js;
-Concurrently;
-Babel;
-Nodemon;
-Webpack;
-Workbox
+- JavaScript
+– [Express](https://expressjs.com/)
+- [Node.js](https://nodejs.org/en/)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [Webpack](https://webpack.js.org/)
+– [Workbox](https://www.npmjs.com/package/workbox-webpack-plugin)
+- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+– [Concurrently](https://www.npmjs.com/package/concurrently)
+– [Babel](https://babeljs.io/)
+
 
 ## License
 MIT
