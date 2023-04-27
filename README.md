@@ -23,7 +23,7 @@ Just Another Text Editor (JATE) is an easy-to-use text editor for writing, editi
 ## Installation
 If you choose to work with this application locally, you can simply clone the repo: https://github.com/smcgarr13/Text-Editor
 
-Please note that to run this project, you will need to have Node.js and npm (Node Package Manager) installed on your machine.
+Please note that to run this application, you will need to have Node.js and npm (Node Package Manager) installed on your machine.
 
 ## Usage
 JATE provides a simple and intuitive interface for users to create, edit, and save code in various programming languages. With its responsive design, users can access JATE on both mobile and desktop devices. Syntax highlighting adds a pop of color to the code, making it more readable and easier to spot errors.  The Progressive Web App (PWA) feature allows users to work offline, ensuring a seamless experience regardless of the internet connection. Get ready to focus on writing code and let JATE handle the rest!
