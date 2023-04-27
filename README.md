@@ -32,15 +32,15 @@ JATE provides a simple and intuitive interface for users to create, edit, and sa
 N/A
 
 ## Technologies
-– JavaScript
-– [Express](https://expressjs.com/)
-- [Node.js](https://nodejs.org/en/)
-- [Nodemon](https://www.npmjs.com/package/nodemon)
-- [Webpack](https://webpack.js.org/)
-– [Workbox](https://www.npmjs.com/package/workbox-webpack-plugin)
-- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
-– [Concurrently](https://www.npmjs.com/package/concurrently)
-– [Babel](https://babeljs.io/)
+–JavaScript
+–[Express](https://expressjs.com/)
+–[Node.js](https://nodejs.org/en/)
+–[Nodemon](https://www.npmjs.com/package/nodemon)
+–[Webpack](https://webpack.js.org/)
+–[Workbox](https://www.npmjs.com/package/workbox-webpack-plugin)
+–[IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+–[Concurrently](https://www.npmjs.com/package/concurrently)
+–[Babel](https://babeljs.io/)
 
 
 ## License
